@@ -32,7 +32,7 @@ class DataSearch extends SearchDelegate {
 
   @override
   Widget buildLeading(BuildContext context) {
-    // TODO: Icono a la izquierda del AppBar
+    // Icono a la izquierda del AppBar
     return IconButton(
       icon: AnimatedIcon(
         icon: AnimatedIcons.menu_arrow,
